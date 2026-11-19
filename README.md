@@ -2,7 +2,6 @@
 
 [![tag](https://img.shields.io/github/tag/talav/country.svg)](https://github.com/talav/country/tags)
 [![Go Reference](https://pkg.go.dev/badge/github.com/talav/country.svg)](https://pkg.go.dev/github.com/talav/country)
-[![Go Report Card](https://goreportcard.com/badge/github.com/talav/country)](https://goreportcard.com/report/github.com/talav/country)
 [![CI](https://github.com/talav/country/workflows/Country%20CI/badge.svg)](https://github.com/talav/country/actions)
 [![codecov](https://codecov.io/gh/talav/country/graph/badge.svg)](https://codecov.io/gh/talav/country)
 [![License](https://img.shields.io/github/license/talav/country)](./LICENSE)
